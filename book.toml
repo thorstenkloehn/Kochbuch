@@ -1,0 +1,6 @@
+[book]
+authors = ["Thorsten Klöhn"]
+language = "de"
+multilingual = false
+src = "src"
+title = "Kochbuch"
